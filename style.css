@@ -26,7 +26,7 @@ h1{
     padding-right: 5px;
 }
 .image{
-    width: 100%;
+    object-fit: fill;
     display: flex;
     align-items: center;
     justify-content: center;
